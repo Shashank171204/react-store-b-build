@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/griet/react-store-b/static/css/main.6cb589b2.css",
-    "main.js": "/griet/react-store-b/static/js/main.7389720e.js",
-    "static/js/453.806b5471.chunk.js": "/griet/react-store-b/static/js/453.806b5471.chunk.js",
-    "index.html": "/griet/react-store-b/index.html",
-    "main.6cb589b2.css.map": "/griet/react-store-b/static/css/main.6cb589b2.css.map",
-    "main.7389720e.js.map": "/griet/react-store-b/static/js/main.7389720e.js.map",
-    "453.806b5471.chunk.js.map": "/griet/react-store-b/static/js/453.806b5471.chunk.js.map"
+    "main.css": "/react-store-b-build/static/css/main.6cb589b2.css",
+    "main.js": "/react-store-b-build/static/js/main.94b93d7c.js",
+    "static/js/453.806b5471.chunk.js": "/react-store-b-build/static/js/453.806b5471.chunk.js",
+    "index.html": "/react-store-b-build/index.html",
+    "main.6cb589b2.css.map": "/react-store-b-build/static/css/main.6cb589b2.css.map",
+    "main.94b93d7c.js.map": "/react-store-b-build/static/js/main.94b93d7c.js.map",
+    "453.806b5471.chunk.js.map": "/react-store-b-build/static/js/453.806b5471.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cb589b2.css",
-    "static/js/main.7389720e.js"
+    "static/js/main.94b93d7c.js"
   ]
 }
